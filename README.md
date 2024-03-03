@@ -1,3 +1,8 @@
+About this website: built with React & Next.js (App Router & Server Actions), TypeScript, Tailwind CSS, Framer Motion, React Email & Resend, Vercel hosting.
+
+![image](https://github.com/saad-official/portfolio/assets/109628645/d79fc93a-9be5-4c86-87bf-0f4c2633ddfe)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
