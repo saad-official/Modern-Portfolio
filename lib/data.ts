@@ -82,7 +82,7 @@ export const projectsData = [
       "Contributed to enhancing the Alawwal Park website by addressing UI issues and implementing testing protocols, help them to deleiver to client",
     tags: ["React #087ea4", "Next.js black", "TypeScript #3178c6", "Tailwind #0ea5e9", "Jest #15c213", "ReactQuery #f59e0b"],
     imageUrl: AlAwalProject,
-    link:'//tickets.victoryarena.com/'
+    link:'https://tickets.victoryarena.com/tickets'
   },
   {
     title: "FIFA Club World Cup",
